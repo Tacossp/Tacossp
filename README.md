@@ -6,11 +6,11 @@ My name is Gu Youping. I have a solid theoretical foundation and extensive pract
 
 - 🏫 I'm an undergraduate student at Xidian University, majoring in Data Science within the School of Computer Science and Technology.
 - 🔭 I'm passionate about Deep Learning, Computer Vision, and especially interested in efficient video generation.
-- 🚀 🚀 I am currently an intern at [Zip lab](https://ziplab.co/), which pioneers next-generation efficient AI computing with a focus on large language models and multimodal foundation models.
+- 🚀 I am currently an intern at [Zip lab](https://ziplab.co/), which pioneers next-generation efficient AI computing with a focus on large language models and multimodal foundation models.
 
 ### 📝 Preprints
 
-- **[Video-BLADE](https://arxiv.org/abs/2508.10774): A Joint Framework of Sparse Attention and Step Distillation for Efficient Video Generation**
+- **[Video-BLADE](https://ziplab.co/BLADE-Homepage/): A Joint Framework of Sparse Attention and Step Distillation for Efficient Video Generation**
 
 ### 📊 GitHub Stats
 
@@ -18,7 +18,7 @@ My name is Gu Youping. I have a solid theoretical foundation and extensive pract
 
 ### 🛠️ Tech Stack
 
-Here are some of the technologies I am proficient with[cite: 6, 11]:
+Here are some of the technologies I am proficient with:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
