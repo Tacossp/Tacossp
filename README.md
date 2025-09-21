@@ -6,7 +6,7 @@ My name is Gu Youping. I have a solid theoretical foundation and extensive pract
 
 - 🏫 I'm an undergraduate student at Xidian University, majoring in Data Science within the School of Computer Science and Technology.
 - 🔭 I'm passionate about Deep Learning, Computer Vision, and especially interested in efficient video generation.
-- 🚀 I am currently an intern at [Zip lab](https://ziplab.co/), which pioneers next-generation efficient AI computing with a focus on large language models and multimodal foundation models.
+- 🚀 I am currently an intern at [ZIP Lab](https://ziplab.co/), which pioneers next-generation efficient AI computing with a focus on large language models and multimodal foundation models.
 
 ### 📝 Preprints
 
