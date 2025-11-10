@@ -10,7 +10,7 @@ My name is Gu Youping. I have a solid theoretical foundation and extensive pract
 
 ### 📝 Preprints
 
-- **[Video-BLADE](https://ziplab.co/BLADE-Homepage/): A Joint Framework of Sparse Attention and Step Distillation for Efficient Video Generation**
+- **[BLADE](https://ziplab.co/BLADE-Homepage/): A Joint Framework of Sparse Attention and Step Distillation for Efficient Video Generation**
 
 ### 📊 GitHub Stats
 
