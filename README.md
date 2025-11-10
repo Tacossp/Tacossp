@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Youping Gu!
 
-My name is Gu Youping. I have a solid theoretical foundation and extensive practical experience in deep learning and generative models.
+My research interests lie at the intersection of Multimodal Large Models, generative models, and Efficient AI.
 
 ### 🌟 About Me
 
