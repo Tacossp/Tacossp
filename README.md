@@ -6,8 +6,7 @@ My research interests lie at the intersection of Multimodal Large Models, genera
 
 - 🏫 I'm an undergraduate student at Xidian University, majoring in Data Science within the School of Computer Science and Technology.
 - 🔭 I'm passionate about Deep Learning, Computer Vision, and especially interested in efficient video generation.
-- 🚀 I am currently an intern at [ZIP Lab](https://ziplab.co/), which pioneers next-generation efficient AI computing with a focus on large language models and multimodal foundation models.
-
+- 🚀 I am currently an intern at DAMO Academy (Alibaba Group), and concurrently at [ZIP Lab](https://ziplab.co/).
 ### 📝 Preprints
 
 - **[BLADE](https://ziplab.co/BLADE-Homepage/): A Joint Framework of Sparse Attention and Step Distillation for Efficient Video Generation**
