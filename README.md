@@ -10,7 +10,7 @@ My research interests lie at the intersection of Multimodal Large Models, genera
 ### 📝 Preprints
 
 - **[BLADE](https://ziplab.co/BLADE-Homepage/): A Joint Framework of Sparse Attention and Step Distillation for Efficient Video Generation**
-
+- **[PSA](https://arxiv.org/abs/2512.04025): Pyramid Sparse Attention for Efficient Video Understanding and Generation**
 ### 📊 GitHub Stats
 
 ![Tacossp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tacossp&show_icons=true&hide_rank=true&theme=tokyonight)
